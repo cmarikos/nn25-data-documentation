@@ -31,4 +31,4 @@ Shared for educational and internal team use. Please credit appropriately if you
 ---
 
 ## Contact
-Reach out to Christina and cgmarikos@gmail.com for questions on this training
+Reach out to Christina at cgmarikos@gmail.com for questions on this training
