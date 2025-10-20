@@ -1,6 +1,10 @@
 # nn25-data-documentation
 
-This repository contains training materials related to data documentation presented at Netroots Nation 2025.
+![IMG_3992 (2)](https://github.com/user-attachments/assets/90d44039-864b-47b5-b915-f963537ad546)
+
+
+
+This repository contains training materials related to data documentation presented at Netroots Nation 2025. Co-panelists were Kate Boettcher, and Zoe O'Reilly
 
 ## Contents
 
