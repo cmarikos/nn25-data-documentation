@@ -1,4 +1,4 @@
-# Creating Durable Documentation for your Data Team - Christina Marikos, Kate Boettcher, Zoe O'Reilly
+# Creating Durable Documentation for your Data Team - Christina Marikos, Zoe O'Reilly, Kate Boettcher (left to right in photo)
 
 ![IMG_3992 (2)](https://github.com/user-attachments/assets/90d44039-864b-47b5-b915-f963537ad546)
 
