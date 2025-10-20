@@ -23,7 +23,7 @@ These materials aim to guide data professionals in improving documentation pract
    - Open the `.md` file directly in GitHub or a text editor to explore post-training resources, best practices, and external references.
 
 2. **View the Slide Deck**
-   - Download the `.pptx` file to review the full presentation used during the training session. It's compatible with PowerPoint, Google Slides (upload and convert), or similar tools.
+   - Download the `.pptx` file to review the full presentation used during the training session. It's compatible with PowerPoint, Google Slides (upload and convert), or similar tools. The QR code in the slide deck is no longer active. Use the .md file for linked resources.
 
 3. **Apply the Guidance**
    - Use the shared principles and examples to audit and improve existing documentation workflows in your team or project.
