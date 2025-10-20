@@ -1,10 +1,10 @@
-# nn25-data-documentation
+# Creating Durable Documentation for your Data Team - Christina Marikos, Kate Boettcher, Zoe O'Reilly
 
 ![IMG_3992 (2)](https://github.com/user-attachments/assets/90d44039-864b-47b5-b915-f963537ad546)
 
 
 
-This repository contains training materials related to data documentation presented at Netroots Nation 2025. Co-panelists were Kate Boettcher, and Zoe O'Reilly
+This repository contains training materials related to data documentation presented at Netroots Nation 2025. Co-panelists were Kate Boettcher (in the red shirt), and Zoe O'Reilly (with the lovely pink hair)
 
 ## Contents
 
